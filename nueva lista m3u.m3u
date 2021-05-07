@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1,TELEFE ROSARIOS 
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1,MUSIC TOP 
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-,CANAL 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:0 type="stream" channelid="-1" name= "ARG:TELEFE" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" tvg-country="ARG", TELEFE
+https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=st=1620415698~exp=1620422898~acl=/i/appmitelefe_1@326430/*~hmac=f02b3fbfcaf6c85d8f266a97fa17cc8b218ffd3f9d12b94409ec2c762d1a1204
+
+
+
